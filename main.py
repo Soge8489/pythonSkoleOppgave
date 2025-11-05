@@ -32,4 +32,11 @@ def bruker():
     return
 
 def ipFinder():
-    ip = os.popen
+    os.system("ipconfig > ipconfig.txt")
+    ip = open("ipconfig.txt","r").read()
+    ip = ip.split("\n")
+    for a in ip:
+        if a.strip().startswith("IPv4"):
+            print(a.strip())
+
+
