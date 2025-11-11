@@ -1,0 +1,1 @@
+Skoleoppgave i python
