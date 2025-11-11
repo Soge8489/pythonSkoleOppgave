@@ -1,0 +1,36 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Lokal tilkobling* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Lokal tilkobling* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : ad.viken.no
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : extra.no
+   Link-local IPv6 Address . . . . . : fe80::997b:911c:375a:494c%15
+   IPv4 Address. . . . . . . . . . . : 192.168.110.50
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+
+Ethernet adapter Bluetooth-nettverkstilkobling:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 

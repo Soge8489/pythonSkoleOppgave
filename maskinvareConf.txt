@@ -1,0 +1,72 @@
+operativ systemet er Windows
+versjonen er Microsoft Windows [Version 10.0.26100.6899]
+Total lagringsplass: 253.67 GB
+Brukte lagringsplass: 252.81 GB
+Ledig lagringsplass: 0.87 GB
+Brukeren pa maskinen er:sindr
+IPv4 Address. . . . . . . . . . . : 192.168.110.50
+Name                                                            
+
+Python 3.13.7 Development Libraries (64-bit)                    
+
+Microsoft Teams Meeting Add-in for Microsoft Office             
+
+Python Launcher                                                 
+
+Python 3.13.7 Test Suite (64-bit)                               
+
+Python 3.13.7 Core Interpreter (64-bit)                         
+
+Python 3.13.7 pip Bootstrap (64-bit)                            
+
+Python 3.13.7 Executables (64-bit)                              
+
+Python 3.13.7 Tcl/Tk Support (64-bit)                           
+
+Python 3.13.7 Documentation (64-bit)                            
+
+Python 3.13.7 Standard Library (64-bit)                         
+
+Office 16 Click-to-Run Extensibility Component                  
+
+Office 16 Click-to-Run Localization Component                   
+
+Office 16 Click-to-Run Licensing Component                      
+
+MySQL Router 8.0                                                
+
+MySQL Installer                                                 
+
+Viken Print                                                     
+
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211     
+
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211  
+
+MySQL Server 8.4                                                
+
+MySQL Server 8.0                                                
+
+Epic Games Launcher Prerequisites (x64)                         
+
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211     
+
+MySQL Shell                                                     
+
+MySQL Workbench 8.0 CE                                          
+
+                                                                
+
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211  
+
+AppsAnywhere                                                    
+
+Epic Online Services                                            
+
+Cloudpaging Player                                              
+
+Microsoft Update Health Tools                                   
+
+Epic Games Launcher                                             
+
+
